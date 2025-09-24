@@ -1,0 +1,160 @@
+{
+  "input_name": "Moderna",
+  "canonical": {
+    "resolved_name": "Moderna, Inc.",
+    "ticker": "MRNA",
+    "cik": 1682852.0,
+    "website": "https://www.modernatx.com",
+    "name_variants": [
+      "Moderna, Inc.",
+      "Moderna,"
+    ]
+  },
+  "pipeline": {
+    "candidates": [
+      {
+        "nct": "NCT04266249",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phase": "phase2",
+        "condition": "Anatomic Stage II Breast Cancer AJCC v8",
+        "intervention": "Docetaxel",
+        "source_url": "https://clinicaltrials.gov/study/NCT04266249",
+        "fetched": "2025-09-24T13:40:25.615281",
+        "evidence_snippet": "CompassHER2-pCR: Decreasing Chemotherapy for Breast Cancer Patients After Pre-surgery Chemo and Targeted Therapy | Condition: Anatomic Stage II Breast",
+        "matched_variant": "Moderna, Inc."
+      },
+      {
+        "nct": "NCT06143046",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phase": "phase2",
+        "condition": "Respiratory Syncytial Virus",
+        "intervention": "mRNA-1345",
+        "source_url": "https://clinicaltrials.gov/study/NCT06143046",
+        "fetched": "2025-09-24T13:40:25.615281",
+        "evidence_snippet": "A Study of mRNA-1345 Vaccine Targeting Respiratory Syncytial Virus in Pregnant Women and in Infants Born to Vaccinated Mothers | Condition: Respirator",
+        "matched_variant": "Moderna, Inc."
+      },
+      {
+        "nct": "NCT05119855",
+        "status": "COMPLETED",
+        "phase": "phase3",
+        "condition": "Papillomavirus Infections",
+        "intervention": "9vHPV Vaccine",
+        "source_url": "https://clinicaltrials.gov/study/NCT05119855",
+        "fetched": "2025-09-24T13:40:25.615281",
+        "evidence_snippet": "Safety and Immunogenicity of 9-valent Human Papillomavirus (9vHPV) Vaccine Coadministered With Messenger Ribonucleic Acid (mRNA)-1273 Severe Acute Res",
+        "matched_variant": "Moderna, Inc."
+      },
+      {
+        "nct": "NCT03253848",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phase": "unknown",
+        "condition": "Acute Promyelocytic Leukemia With PML-RARA",
+        "intervention": "Simplified Patient Care Strategy",
+        "source_url": "https://clinicaltrials.gov/study/NCT03253848",
+        "fetched": "2025-09-24T13:40:25.616281",
+        "evidence_snippet": "Simplified Patient Care Strategy in Decreasing Early Death in Patients With Acute Promyelocytic Leukemia | Condition: Acute Promyelocytic Leukemia Wit",
+        "matched_variant": "Moderna, Inc."
+      },
+      {
+        "nct": "NCT05398796",
+        "status": "COMPLETED",
+        "phase": "phase1",
+        "condition": "Nipah Virus Infection",
+        "intervention": "mRNA -1215",
+        "source_url": "https://clinicaltrials.gov/study/NCT05398796",
+        "fetched": "2025-09-24T13:40:25.616281",
+        "evidence_snippet": "Dose Escalation, Open-Label Clinical Trial to Evaluate Safety, Tolerability and Immunogenicity of a Nipah Virus (NiV) mRNA Vaccine, mRNA-1215, in Heal",
+        "matched_variant": "Moderna, Inc."
+      },
+      {
+        "nct": "NCT04297917",
+        "status": "COMPLETED",
+        "phase": "phase1",
+        "condition": "Hepatitis B",
+        "intervention": "ChAdOx1-HBV",
+        "source_url": "https://clinicaltrials.gov/study/NCT04297917",
+        "fetched": "2025-09-24T13:40:25.616281",
+        "evidence_snippet": "First in Human Study of ChAdOx1-HBV in Healthy Participants and Participants With Chronic hepB Infection | Condition: Hepatitis B | Intervention: ChAd",
+        "matched_variant": "Moderna, Inc."
+      },
+      {
+        "nct": "NCT04934111",
+        "status": "UNKNOWN",
+        "phase": "phase1",
+        "condition": "COVID-19",
+        "intervention": "LNP-nCOV saRNA-02 Vaccine",
+        "source_url": "https://clinicaltrials.gov/study/NCT04934111",
+        "fetched": "2025-09-24T13:40:25.616281",
+        "evidence_snippet": "Safety and Immunogenicity of LNP-nCOV saRNA-02 Vaccine Against SARS-CoV-2, the Causative Agent of COVID-19 | Condition: COVID-19 | Intervention: LNP-n",
+        "matched_variant": "Moderna, Inc."
+      }
+    ],
+    "counts_by_phase": {
+      "phase2": 2,
+      "phase3": 1,
+      "unknown": 1,
+      "phase1": 3
+    }
+  },
+  "financial": {
+    "public": true,
+    "filings": [
+      {
+        "form": "10-K",
+        "filing_date": "0001682852-25-000022",
+        "file_path": "C:\\Users\\Pc\\Desktop\\Business School Work\\sec-edgar-filings\\MRNA\\10-K\\0001682852-25-000022\\full-submission.txt",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1682852.0/0001682852-25-000022/index.html",
+        "fetched": "2025-09-24T13:40:25.871249"
+      },
+      {
+        "form": "10-K",
+        "filing_date": "0001682852-24-000015",
+        "file_path": "C:\\Users\\Pc\\Desktop\\Business School Work\\sec-edgar-filings\\MRNA\\10-K\\0001682852-24-000015\\full-submission.txt",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1682852.0/0001682852-24-000015/index.html",
+        "fetched": "2025-09-24T13:40:25.871249"
+      },
+      {
+        "form": "10-Q",
+        "filing_date": "0001682852-25-000044",
+        "file_path": "C:\\Users\\Pc\\Desktop\\Business School Work\\sec-edgar-filings\\MRNA\\10-Q\\0001682852-25-000044\\full-submission.txt",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1682852.0/0001682852-25-000044/index.html",
+        "fetched": "2025-09-24T13:40:26.096753"
+      },
+      {
+        "form": "10-Q",
+        "filing_date": "0001682852-25-000034",
+        "file_path": "C:\\Users\\Pc\\Desktop\\Business School Work\\sec-edgar-filings\\MRNA\\10-Q\\0001682852-25-000034\\full-submission.txt",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1682852.0/0001682852-25-000034/index.html",
+        "fetched": "2025-09-24T13:40:26.096753"
+      }
+    ],
+    "provenance": [
+      {
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1682852.0/0001682852-25-000022/index.html",
+        "source_type": "edgar",
+        "fetched": "2025-09-24T13:40:25.871249",
+        "evidence_snippet": "10-K filing on 0001682852-25-000022"
+      },
+      {
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1682852.0/0001682852-24-000015/index.html",
+        "source_type": "edgar",
+        "fetched": "2025-09-24T13:40:25.871249",
+        "evidence_snippet": "10-K filing on 0001682852-24-000015"
+      },
+      {
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1682852.0/0001682852-25-000044/index.html",
+        "source_type": "edgar",
+        "fetched": "2025-09-24T13:40:26.096753",
+        "evidence_snippet": "10-Q filing on 0001682852-25-000044"
+      },
+      {
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1682852.0/0001682852-25-000034/index.html",
+        "source_type": "edgar",
+        "fetched": "2025-09-24T13:40:26.096753",
+        "evidence_snippet": "10-Q filing on 0001682852-25-000034"
+      }
+    ]
+  },
+  "news": []
+}

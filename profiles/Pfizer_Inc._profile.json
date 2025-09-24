@@ -1,0 +1,476 @@
+{
+  "input_name": "Pfizer",
+  "canonical": {
+    "resolved_name": "Pfizer Inc.",
+    "ticker": "PFE",
+    "cik": 78003.0,
+    "website": "https://www.pfizer.com",
+    "name_variants": [
+      "Pfizer Inc.",
+      "Pfizer"
+    ]
+  },
+  "pipeline": {
+    "candidates": [
+      {
+        "nct": "NCT00659100",
+        "status": "COMPLETED",
+        "phase": "phase3",
+        "condition": "Transient Insomnia",
+        "intervention": "Gabapentin",
+        "source_url": "https://clinicaltrials.gov/study/NCT00659100",
+        "fetched": "2025-09-24T16:15:35.171637",
+        "evidence_snippet": "A Trial to Assess Consumer Self-Selection and Use of Gabapentin for Occasional Sleeplessness in an Over-the-Counter Environment | Condition: Transient",
+        "matched_variant": "Pfizer Inc."
+      },
+      {
+        "nct": "NCT03275311",
+        "status": "RECRUITING",
+        "phase": "unknown",
+        "condition": "Metastatic Breast Cancer",
+        "intervention": null,
+        "source_url": "https://clinicaltrials.gov/study/NCT03275311",
+        "fetched": "2025-09-24T16:15:35.171637",
+        "evidence_snippet": "Evolution of the Therapeutic Care in Metastatic Breast Cancer From 2008 | Condition: Metastatic Breast Cancer",
+        "matched_variant": "Pfizer Inc."
+      },
+      {
+        "nct": "NCT06717425",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phase": "phase2",
+        "condition": "Obesity",
+        "intervention": "PF-07976016",
+        "source_url": "https://clinicaltrials.gov/study/NCT06717425",
+        "fetched": "2025-09-24T16:15:35.171637",
+        "evidence_snippet": "A Study to Learn About the Study Medicine Called PF-07976016 in Adults With Obesity | Condition: Obesity | Intervention: PF-07976016",
+        "matched_variant": "Pfizer Inc."
+      },
+      {
+        "nct": "NCT01309737",
+        "status": "COMPLETED",
+        "phase": "phase3",
+        "condition": "Psoriasis",
+        "intervention": "CP-690,550",
+        "source_url": "https://clinicaltrials.gov/study/NCT01309737",
+        "fetched": "2025-09-24T16:15:35.171637",
+        "evidence_snippet": "A One-Year Study To Evaluate The Efficacy And Safety Of CP-690,550 For Patients With Moderate To Severe Chronic Plaque Psoriasis | Condition: Psoriasi",
+        "matched_variant": "Pfizer Inc."
+      },
+      {
+        "nct": "NCT03454919",
+        "status": "UNKNOWN",
+        "phase": "phase2",
+        "condition": "Melanoma",
+        "intervention": "Palbociclib",
+        "source_url": "https://clinicaltrials.gov/study/NCT03454919",
+        "fetched": "2025-09-24T16:15:35.171637",
+        "evidence_snippet": "Efficacy of Palbociclib in Advanced Acral Melanoma With Cell Cycle Gene Aberrations | Condition: Melanoma | Intervention: Palbociclib",
+        "matched_variant": "Pfizer Inc."
+      },
+      {
+        "nct": "NCT06974734",
+        "status": "RECRUITING",
+        "phase": "phase1",
+        "condition": "Carcinoma, Non Small Cell Lung",
+        "intervention": "PF-08046037",
+        "source_url": "https://clinicaltrials.gov/study/NCT06974734",
+        "fetched": "2025-09-24T16:15:35.171637",
+        "evidence_snippet": "A Clinical Trial of PF-08046037 Alone or With Sasanlimab in Patients With Advanced or Metastatic Malignancies | Condition: Carcinoma, Non Small Cell L",
+        "matched_variant": "Pfizer Inc."
+      },
+      {
+        "nct": "NCT00076206",
+        "status": "TERMINATED",
+        "phase": "phase2",
+        "condition": "Rheumatoid Arthritis",
+        "intervention": "CCI-779",
+        "source_url": "https://clinicaltrials.gov/study/NCT00076206",
+        "fetched": "2025-09-24T16:15:35.171637",
+        "evidence_snippet": "Study Evaluating CCI-779 in Active Rheumatoid Arthritis on Concomitant Methotrexate Therapy | Condition: Rheumatoid Arthritis | Intervention: CCI-779",
+        "matched_variant": "Pfizer Inc."
+      },
+      {
+        "nct": "NCT00163085",
+        "status": "COMPLETED",
+        "phase": "phase2",
+        "condition": "Parkinson's Disease",
+        "intervention": "NR2B NMDA Antagonist CP-101,606 (traxoprodil)",
+        "source_url": "https://clinicaltrials.gov/study/NCT00163085",
+        "fetched": "2025-09-24T16:15:35.171637",
+        "evidence_snippet": "The Effects of an NR2B NMDA Antagonist, CP-101,606, in Patients With Parkinson's Disease | Condition: Parkinson's Disease | Intervention: NR2B NMDA An",
+        "matched_variant": "Pfizer Inc."
+      },
+      {
+        "nct": "NCT04736576",
+        "status": "COMPLETED",
+        "phase": "unknown",
+        "condition": "Breast Cancer",
+        "intervention": "Wearable device",
+        "source_url": "https://clinicaltrials.gov/study/NCT04736576",
+        "fetched": "2025-09-24T16:15:35.171637",
+        "evidence_snippet": "Study to Evaluate Patient Reported Outcome (PRO) and Physical Activity in Japanese Patients With HR+/HER2- Advanced Breast Cancer Treated With Palboci",
+        "matched_variant": "Pfizer Inc."
+      }
+    ],
+    "counts_by_phase": {
+      "phase3": 2,
+      "unknown": 2,
+      "phase2": 4,
+      "phase1": 1
+    }
+  },
+  "financial": {
+    "public": true,
+    "filings": [
+      {
+        "form": "10-K",
+        "filing_date": "0000078003-25-000054",
+        "file_path": "C:\\Users\\Pc\\Desktop\\Business School Work\\sec-edgar-filings\\PFE\\10-K\\0000078003-25-000054\\full-submission.txt",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/78003.0/0000078003-25-000054/index.html",
+        "fetched": "2025-09-24T16:15:35.829953"
+      },
+      {
+        "form": "10-K",
+        "filing_date": "0000078003-24-000039",
+        "file_path": "C:\\Users\\Pc\\Desktop\\Business School Work\\sec-edgar-filings\\PFE\\10-K\\0000078003-24-000039\\full-submission.txt",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/78003.0/0000078003-24-000039/index.html",
+        "fetched": "2025-09-24T16:15:35.829953"
+      },
+      {
+        "form": "10-Q",
+        "filing_date": "0000078003-25-000138",
+        "file_path": "C:\\Users\\Pc\\Desktop\\Business School Work\\sec-edgar-filings\\PFE\\10-Q\\0000078003-25-000138\\full-submission.txt",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/78003.0/0000078003-25-000138/index.html",
+        "fetched": "2025-09-24T16:15:36.053793"
+      },
+      {
+        "form": "10-Q",
+        "filing_date": "0000078003-25-000114",
+        "file_path": "C:\\Users\\Pc\\Desktop\\Business School Work\\sec-edgar-filings\\PFE\\10-Q\\0000078003-25-000114\\full-submission.txt",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/78003.0/0000078003-25-000114/index.html",
+        "fetched": "2025-09-24T16:15:36.053793"
+      }
+    ],
+    "provenance": [
+      {
+        "source_url": "https://www.sec.gov/Archives/edgar/data/78003.0/0000078003-25-000054/index.html",
+        "source_type": "edgar",
+        "fetched": "2025-09-24T16:15:35.829953",
+        "evidence_snippet": "10-K filing on 0000078003-25-000054"
+      },
+      {
+        "source_url": "https://www.sec.gov/Archives/edgar/data/78003.0/0000078003-24-000039/index.html",
+        "source_type": "edgar",
+        "fetched": "2025-09-24T16:15:35.829953",
+        "evidence_snippet": "10-K filing on 0000078003-24-000039"
+      },
+      {
+        "source_url": "https://www.sec.gov/Archives/edgar/data/78003.0/0000078003-25-000138/index.html",
+        "source_type": "edgar",
+        "fetched": "2025-09-24T16:15:36.053793",
+        "evidence_snippet": "10-Q filing on 0000078003-25-000138"
+      },
+      {
+        "source_url": "https://www.sec.gov/Archives/edgar/data/78003.0/0000078003-25-000114/index.html",
+        "source_type": "edgar",
+        "fetched": "2025-09-24T16:15:36.053793",
+        "evidence_snippet": "10-Q filing on 0000078003-25-000114"
+      }
+    ]
+  },
+  "news": [
+    {
+      "headline": "Pfizer expands obesity drug portfolio with Metsera acquisition",
+      "summary": null,
+      "source_url": null,
+      "published": null,
+      "source_name": null,
+      "fetched": "2025-09-24T14:43:06.373057",
+      "provenance": {
+        "position": 1,
+        "title": "Pfizer expands obesity drug portfolio with Metsera acquisition",
+        "stories": [
+          {
+            "position": 1,
+            "title": "Pfizer doubles down on weight-loss treatments with up to $7.3 billion Metsera buyout",
+            "source": {
+              "name": "Reuters",
+              "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+              "authors": [
+                "Mariam E Sunny",
+                "Michael Erman"
+              ]
+            },
+            "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/pfizer-closes-73-billion-takeover-anti-obesity-drugmaker-metsera-ft-reports-2025-09-22/",
+            "thumbnail": "https://www.reuters.com/resizer/v2/PMN2KSP6HZIKBEGKPN77OEIWBU.jpg?auth=e3ce48af96019482158e38a43aa502ba7c0fe5d95ce1b8a0cedcad2810babc7d&height=2400&width=1920&quality=80&smart=true",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUpiR1pMTkhRNVMzSkRjV0V4VFJEckJCanZBeWdLTWdNQnNBdw",
+            "date": "09/22/2025, 01:49 PM, +0000 UTC"
+          },
+          {
+            "position": 2,
+            "title": "Pfizer seals up to $7.3bn takeover of weight loss drugmaker Metsera",
+            "source": {
+              "name": "Financial Times",
+              "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+              "authors": [
+                "Oliver Barnes",
+                "Hannah Kuchler"
+              ]
+            },
+            "link": "https://www.ft.com/content/aee4a71c-7ad6-4cde-852f-720a97542fac",
+            "thumbnail": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F45a6ed2b-6c44-4364-85e9-9659f39ba537.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXVVVTlpYjJGMVMwUnJVMmxpVFJDS0F4aThCU2dLTWdrVkVvaEpqaXROTWdF",
+            "date": "09/22/2025, 03:51 AM, +0000 UTC"
+          },
+          {
+            "position": 3,
+            "title": "Metsera (MTSR) Soars to All-Time High on $7.3-Billion Merger With Pfizer",
+            "source": {
+              "name": "Yahoo Finance",
+              "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://finance.yahoo.com/news/metsera-mtsr-soars-time-high-181334069.html",
+            "thumbnail": "https://s.yimg.com/ny/api/res/1.2/GRgw.j2mDvFaIZoNxAVyRA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xODAw/https://media.zenfs.com/en/insidermonkey.com/d4449f1c63e66f9eb89e0a5e8e0905d6",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9OemR1UzA5TmNXOWpaVlJsVFJDbUJSakVBeWdLTWdZQlVaQlBKUVk",
+            "date": "09/23/2025, 06:13 PM, +0000 UTC"
+          },
+          {
+            "position": 4,
+            "title": "Pfizer to Acquire Metsera and its Next-Generation Obesity Portfolio",
+            "source": {
+              "name": "Business Wire",
+              "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://www.businesswire.com/news/home/20250922965053/en/Pfizer-to-Acquire-Metsera-and-its-Next-Generation-Obesity-Portfolio",
+            "thumbnail": "https://mms.businesswire.com/media/20250922965053/en/1045874/5/Pfizer_Logo_Color_RGB_APPROVED.jpg?download=1",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUliVEl5V0dnMlduaGplSGxhVFJEd0FoakNCaWdLTWdhTmtaQXN1UVk",
+            "date": "09/22/2025, 10:45 AM, +0000 UTC"
+          },
+          {
+            "position": 5,
+            "title": "Pfizer amps up push into obesity treatments with $4.9B deal for Metsera",
+            "source": {
+              "name": "ABC News - Breaking News, Latest News and Videos",
+              "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://abcnews.go.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://abcnews.go.com/Business/wireStory/pfizer-amps-push-obesity-treatments-49b-deal-metsera-125809920",
+            "thumbnail": "https://s.abcnews.com/images/Health/wirestory_e85141f89b670b8d9a7520de3a2fd7c5_16x9_1600.jpg",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhhVWR0VDAxb1h6QmhSVlY0VFJDZkF4ampCU2dLTWdZaHRJaU1TUVE",
+            "date": "09/24/2025, 04:43 AM, +0000 UTC"
+          },
+          {
+            "position": 6,
+            "title": "Pfizer to Buy Weight-Loss Drug Developer Metsera for Up to $7.3 Billion",
+            "source": {
+              "name": "The Wall Street Journal",
+              "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+              "authors": [
+                "Colin Kellaher"
+              ]
+            },
+            "link": "https://www.wsj.com/health/pharma/pfizer-to-buy-weight-loss-drug-developer-metsera-for-up-to-7-3-billion-6c8ff920?gaa_at=eafs&gaa_n=ASWzDAhhHd6JbsWaarObPBW-KwfsLdYFRs1O0_zdtu90W7JZThzvbZTtv4S3&gaa_ts=68d3ffdd&gaa_sig=_TduFDgI5vb1sHE-5lH9-UYp6--RcA_xKeOjsJj9g9hVKBpqIZqKTTCY_xaPoSSojGHi78gTu3eRwkEY6q-3UQ%3D%3D",
+            "thumbnail": "https://images.wsj.net/im-45699824?width=700&height=467",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBXbVl4TUZjeE5UQnpia001VFJERUF4aW1CU2dLTWdhNVFxQXhIUW8",
+            "date": "09/22/2025, 02:54 PM, +0000 UTC"
+          },
+          {
+            "position": 7,
+            "title": "Pfizer buys back into obesity drug chase with $4.9B Metsera deal",
+            "source": {
+              "name": "BioPharma Dive",
+              "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.biopharmadive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+              "authors": [
+                "Jonathan Gardner"
+              ]
+            },
+            "link": "https://www.biopharmadive.com/news/pfizer-metsera-acquire-obesity-drugs-glp1-amylin/760719/",
+            "thumbnail": "https://imgproxy.divecdn.com/UpECyt78tChsHf08h2TnhckEXZLGZrKeGJgL_kbitFA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QZml6ZXJfUGhvdG9fMi5KUEc=.webp",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBMVmgwVnkxTVptbHRNRkJFVFJDZkF4ampCU2dLTWdZbG81Q05QUVk",
+            "date": "09/22/2025, 03:47 PM, +0000 UTC"
+          },
+          {
+            "position": 8,
+            "title": "Pfizer to Buy Metsera for $4.9 Billion in Obesity Drug Bet",
+            "source": {
+              "name": "Bloomberg.com",
+              "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://www.bloomberg.com/news/articles/2025-09-22/pfizer-to-buy-metsera-for-4-9-billion-in-obesity-drug-boost",
+            "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iv3FA.8xqXkE/v0/1200x800.jpg",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNOekV6TUdWR1gxVXRiRlF0VFJERUF4aW1CU2dLTWdZQmdJNld0QVk",
+            "date": "09/22/2025, 01:36 PM, +0000 UTC"
+          },
+          {
+            "position": 9,
+            "title": "How Pfizer can compete in the obesity space with its Metsera acquisition (PFE:NYSE)",
+            "source": {
+              "name": "Seeking Alpha",
+              "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://seekingalpha.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+              "authors": [
+                "Jonathan Block, MPH"
+              ]
+            },
+            "link": "https://seekingalpha.com/news/4497181-how-pfizer-can-compete-in-obesity-space-with-its-metsera-acquisition",
+            "thumbnail": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1418907713/image_1418907713.jpg?io=getty-c-w1280",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRTWE0yTUZweVRHNDFaREpDVFJERUF4aW1CU2dLTWdhQmc1WlJzUWM",
+            "date": "09/22/2025, 03:24 PM, +0000 UTC"
+          }
+        ],
+        "topic_token": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lJNHBEUER4SHlQenlFMy1tOFlDZ0FQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lJNHBEUER4SHlQenlFMy1tOFlDZ0FQAQ"
+      }
+    },
+    {
+      "headline": "Pfizer Inc. (PFE) Targets $4.5B in Cost Savings to Fuel R&D and Innovative Therapies",
+      "summary": "In this article, we will be taking a look at the 10 Best Pharma Stocks to Buy According to Billionaires. Pfizer Inc. is one of them. Pfizer Inc. (NYSE:PFE), a global biopharmaceutical leader, continues to make strides in vaccines and oncology, reinforcing its position in the pharma sector. In September 2025, PFE and BioNTech reported [\u2026]",
+      "source_url": "https://finance.yahoo.com/news/pfizer-inc-pfe-targets-4-231003971.html",
+      "published": "09/23/2025, 11:10 PM, +0000 UTC",
+      "source_name": "Yahoo Finance",
+      "fetched": "2025-09-24T16:15:36.370380",
+      "provenance": {
+        "position": 2,
+        "title": "Pfizer Inc. (PFE) Targets $4.5B in Cost Savings to Fuel R&D and Innovative Therapies",
+        "source": {
+          "name": "Yahoo Finance",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://finance.yahoo.com/news/pfizer-inc-pfe-targets-4-231003971.html",
+        "thumbnail": "https://s.yimg.com/ny/api/res/1.2/Djg7Cg_6iy6nU_S2UH9Jmg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/2c8f851c326321f2c94ddd4776afda17",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZNbUpUY1ZCTk5VNDFRVVZhVFJDZkF4amtCU2dLTWdZWlVwSkpvZ2c",
+        "date": "09/23/2025, 11:10 PM, +0000 UTC"
+      },
+      "extraction_confidence": 0.6,
+      "evidence_snippet": "In this article, we will be taking a look at the 10 Best Pharma Stocks to Buy According to Billionaires. Pfizer Inc. is one of them. Pfizer Inc. (NYSE:PFE), a global biopharmaceutical leader, continue"
+    },
+    {
+      "headline": "Pfizer Inc is Wall Street Wrong to Give Up on This Comeback Story?",
+      "summary": "Pfizer's Story Isn't Over -- It's Just Quieter Than It Used to Be",
+      "source_url": "https://finance.yahoo.com/news/pfizer-inc-wall-street-wrong-091618643.html",
+      "published": "09/24/2025, 09:16 AM, +0000 UTC",
+      "source_name": "Yahoo Finance",
+      "fetched": "2025-09-24T16:15:36.606561",
+      "provenance": {
+        "position": 3,
+        "title": "Pfizer Inc is Wall Street Wrong to Give Up on This Comeback Story?",
+        "source": {
+          "name": "Yahoo Finance",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://finance.yahoo.com/news/pfizer-inc-wall-street-wrong-091618643.html",
+        "thumbnail": "https://s.yimg.com/ny/api/res/1.2/223_omo1Pw_BwzTjrjzzhQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM4NA--/https://media.zenfs.com/en/us.finance.gurufocus/1cb99c5128a7afe50f6d94aa68ea8886",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBhRTVqVUY5UVRpMUpiVEJoVFJDQUF4aUFCU2dLTWdhQkFvS0ZtZ2c",
+        "date": "09/24/2025, 09:16 AM, +0000 UTC"
+      },
+      "extraction_confidence": 0.6,
+      "evidence_snippet": "Pfizer's Story Isn't Over -- It's Just Quieter Than It Used to Be"
+    },
+    {
+      "headline": "Foster Victor Wealth Advisors LLC Has $16.48 Million Stake in Pfizer Inc. $PFE",
+      "summary": "Foster Victor Wealth Advisors LLC increased its stake in  Pfizer Inc. (NYSE:PFE - Free Report) by 7.7% in the 2nd quarter, according to its most recent 13F filing with the Securities &amp; Exchange Commission. The institutional investor  owned 644,591 shares of the biopharmaceutical company's stock",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-foster-victor-wealth-advisors-llc-has-1648-million-stake-in-pfizer-inc-pfe-2025-09-24/",
+      "published": "09/24/2025, 11:34 AM, +0000 UTC",
+      "source_name": "MarketBeat",
+      "fetched": "2025-09-24T16:15:36.679759",
+      "provenance": {
+        "position": 4,
+        "title": "Foster Victor Wealth Advisors LLC Has $16.48 Million Stake in Pfizer Inc. $PFE",
+        "source": {
+          "name": "MarketBeat",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.marketbeat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.marketbeat.com/instant-alerts/filing-foster-victor-wealth-advisors-llc-has-1648-million-stake-in-pfizer-inc-pfe-2025-09-24/",
+        "thumbnail": "https://www.marketbeat.com/logos/pfizer-inc-logo-1200x675.png?v=20221020143129",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZZbTFYZUU5c2VsaDNjbU5DVFJDZkF4ampCU2dLTWdhbGxKS01NUVk",
+        "date": "09/24/2025, 11:34 AM, +0000 UTC"
+      },
+      "extraction_confidence": 0.6,
+      "evidence_snippet": "Foster Victor Wealth Advisors LLC increased its stake in  Pfizer Inc. (NYSE:PFE - Free Report) by 7.7% in the 2nd quarter, according to its most recent 13F filing with the Securities &amp; Exchange Co"
+    },
+    {
+      "headline": "Pfizer Inc. (PFE) Proposed Acquisition of Metsera, Inc. (NYSE:PFE) 2025-09-22",
+      "summary": "2025-09-22. The following slide deck was published by Pfizer Inc.",
+      "source_url": "https://seekingalpha.com/article/4824901-pfizer-inc-pfe-proposed-acquisition-of-metsera-inc",
+      "published": "09/22/2025, 05:47 PM, +0000 UTC",
+      "source_name": "Seeking Alpha",
+      "fetched": "2025-09-24T16:15:36.756675",
+      "provenance": {
+        "position": 5,
+        "title": "Pfizer Inc. (PFE) Proposed Acquisition of Metsera, Inc. (NYSE:PFE) 2025-09-22",
+        "source": {
+          "name": "Seeking Alpha",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://seekingalpha.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://seekingalpha.com/article/4824901-pfizer-inc-pfe-proposed-acquisition-of-metsera-inc",
+        "thumbnail": "https://static1.seekingalpha.com/uploads/sa_presentations/670/114670/slides/1.jpg?io=w640&ts=1758563265",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTBWa2xXWlUxSFdteHdOekpNVFJEb0FoaUFCU2dLTWdNQkpBQQ",
+        "date": "09/22/2025, 05:47 PM, +0000 UTC"
+      },
+      "extraction_confidence": 0.6,
+      "evidence_snippet": "2025-09-22. The following slide deck was published by Pfizer Inc."
+    },
+    {
+      "headline": "With 67% institutional ownership, Pfizer Inc. (NYSE:PFE) is a favorite amongst the big guns",
+      "summary": "Key Insights Given the large stake in the stock by institutions, Pfizer's stock price might be vulnerable to their...",
+      "source_url": "https://finance.yahoo.com/news/67-institutional-ownership-pfizer-inc-110011345.html",
+      "published": "09/24/2025, 11:00 AM, +0000 UTC",
+      "source_name": "Yahoo Finance",
+      "fetched": "2025-09-24T16:15:37.204977",
+      "provenance": {
+        "position": 6,
+        "title": "With 67% institutional ownership, Pfizer Inc. (NYSE:PFE) is a favorite amongst the big guns",
+        "source": {
+          "name": "Yahoo Finance",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://finance.yahoo.com/news/67-institutional-ownership-pfizer-inc-110011345.html",
+        "date": "09/24/2025, 11:00 AM, +0000 UTC"
+      },
+      "extraction_confidence": 0.6,
+      "evidence_snippet": "Key Insights Given the large stake in the stock by institutions, Pfizer's stock price might be vulnerable to their..."
+    },
+    {
+      "headline": "PFIZER INC : Receives a Buy rating from Jefferies",
+      "summary": "Analyst Akash Tewari from Jefferies research considers the stock attractive and recommends it with a Buy rating. The target price is revised upwards from USD 34 to USD 33.",
+      "source_url": "https://www.marketscreener.com/news/pfizer-inc-receives-a-buy-rating-from-jefferies-ce7d58dddc81f22d",
+      "published": "09/24/2025, 06:29 AM, +0000 UTC",
+      "source_name": "MarketScreener",
+      "fetched": "2025-09-24T16:15:37.436533",
+      "provenance": {
+        "position": 7,
+        "title": "PFIZER INC : Receives a Buy rating from Jefferies",
+        "source": {
+          "name": "MarketScreener",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.marketscreener.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.marketscreener.com/news/pfizer-inc-receives-a-buy-rating-from-jefferies-ce7d58dddc81f22d",
+        "thumbnail": "https://www.marketscreener.com/zbcache/charts/ObjectChart.aspx?Name=23365019&Type=Custom&Intraday=1&Width=392&Height=392&Cycle=DAY1&Duration=5&Render=Candle&ShowCopyright=2&ShowName=0&Locale=en&ShowVolume=1&Company=Skin:ZonebourseLight&externload=",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdjVU5JWlRkWVRuZE5WbFl3VFJDSUF4aUlBeWdLTWdhQkFwQ0tOUWM",
+        "date": "09/24/2025, 06:29 AM, +0000 UTC"
+      },
+      "extraction_confidence": 0.6,
+      "evidence_snippet": "Analyst Akash Tewari from Jefferies research considers the stock attractive and recommends it with a Buy rating. The target price is revised upwards from USD 34 to USD 33."
+    },
+    {
+      "headline": "How Pfizer Inc. (PFE) Affects Rotational Strategy Timing",
+      "summary": "Price-action only: Pfizer Inc. (PFE) movements set the tone for institutional models. How Pfizer Inc. (PFE) Affects Rotational Strategy Timing",
+      "source_url": "https://news.stocktradersdaily.com/news_release/95/How_Pfizer_Inc._PFE_Affects_Rotational_Strategy_Timing_092425024202_1758696122.html",
+      "published": "09/24/2025, 02:42 AM, +0000 UTC",
+      "source_name": "news.stocktradersdaily.com",
+      "fetched": "2025-09-24T16:15:37.469922",
+      "provenance": {
+        "position": 8,
+        "title": "How Pfizer Inc. (PFE) Affects Rotational Strategy Timing",
+        "source": {
+          "name": "news.stocktradersdaily.com",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://news.stocktradersdaily.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://news.stocktradersdaily.com/news_release/95/How_Pfizer_Inc._PFE_Affects_Rotational_Strategy_Timing_092425024202_1758696122.html",
+        "thumbnail": "https://news.stocktradersdaily.com/media/633332_PFE_graph.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNDRXa3h6UWtKck5teE5WMUpoVFJEZUFoaWdCaWdLTWdNUlFoUQ",
+        "date": "09/24/2025, 02:42 AM, +0000 UTC"
+      },
+      "extraction_confidence": 0.6,
+      "evidence_snippet": "Price-action only: Pfizer Inc. (PFE) movements set the tone for institutional models. How Pfizer Inc. (PFE) Affects Rotational Strategy Timing"
+    }
+  ]
+}

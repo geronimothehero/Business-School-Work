@@ -1,0 +1,83 @@
+{
+  "input_name": "Novartis",
+  "canonical": {
+    "resolved_name": "Novartis AG",
+    "ticker": "NVS",
+    "cik": 1114448.0,
+    "website": "https://www.novartis.com",
+    "name_variants": [
+      "Novartis AG"
+    ]
+  },
+  "pipeline": {
+    "candidates": [
+      {
+        "nct": "NCT04137640",
+        "status": "NOT_YET_RECRUITING",
+        "phase": "phase4",
+        "condition": "Breast Cancer",
+        "intervention": "palbociclib combined with letrozole",
+        "source_url": "https://clinicaltrials.gov/study/NCT04137640",
+        "fetched": "2025-09-24T13:40:27.619873",
+        "evidence_snippet": "Palbociclib + Letrozole Versus Epirubicin + Cyclophosphamide and Sequential Docetaxel as Neoadjuvant Chemotherapy | Condition: Breast Cancer | Interve",
+        "matched_variant": "Novartis AG"
+      },
+      {
+        "nct": "NCT06481189",
+        "status": "COMPLETED",
+        "phase": "phase1",
+        "condition": "Healthy Volunteers",
+        "intervention": "GNR-086",
+        "source_url": "https://clinicaltrials.gov/study/NCT06481189",
+        "fetched": "2025-09-24T13:40:27.619873",
+        "evidence_snippet": "A Safety, Pharmacokinetics and Pharmacodynamics Study of GNR-086 and Ilaris\u00ae in Healthy Volunteers | Condition: Healthy Volunteers | Intervention: GNR",
+        "matched_variant": "Novartis AG"
+      },
+      {
+        "nct": "NCT01377597",
+        "status": "COMPLETED",
+        "phase": "phase3",
+        "condition": "Retinal Vein Occlusion",
+        "intervention": "ranibizumab",
+        "source_url": "https://clinicaltrials.gov/study/NCT01377597",
+        "fetched": "2025-09-24T13:40:27.619873",
+        "evidence_snippet": "Efficacy and Safety of Ranibizumab in Japanese Patients With Retinal Vein Occlusion | Condition: Retinal Vein Occlusion | Intervention: ranibizumab",
+        "matched_variant": "Novartis AG"
+      },
+      {
+        "nct": "NCT00719264",
+        "status": "COMPLETED",
+        "phase": "phase2",
+        "condition": "Carcinoma",
+        "intervention": "RAD001(everolimus)",
+        "source_url": "https://clinicaltrials.gov/study/NCT00719264",
+        "fetched": "2025-09-24T13:40:27.619873",
+        "evidence_snippet": "Safety and Efficacy of Bevacizumab Plus RAD001 Versus Interferon Alfa-2a and Bevacizumab for the First-line Treatment in Adult Patients With Kidney Ca",
+        "matched_variant": "Novartis AG"
+      },
+      {
+        "nct": "NCT00170781",
+        "status": "COMPLETED",
+        "phase": "phase4",
+        "condition": "Acute Gouty Arthritis",
+        "intervention": "Lumiracoxib",
+        "source_url": "https://clinicaltrials.gov/study/NCT00170781",
+        "fetched": "2025-09-24T13:40:27.619873",
+        "evidence_snippet": "Efficacy and Safety of Lumiracoxib 400 mg Once Daily in Acute Flares of Gout | Condition: Acute Gouty Arthritis | Intervention: Lumiracoxib",
+        "matched_variant": "Novartis AG"
+      }
+    ],
+    "counts_by_phase": {
+      "phase4": 2,
+      "phase1": 1,
+      "phase3": 1,
+      "phase2": 1
+    }
+  },
+  "financial": {
+    "public": true,
+    "filings": [],
+    "provenance": []
+  },
+  "news": []
+}

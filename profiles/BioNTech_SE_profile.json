@@ -1,0 +1,81 @@
+{
+  "input_name": "BioNTech",
+  "canonical": {
+    "resolved_name": "BioNTech SE",
+    "ticker": "BNTX",
+    "cik": 1776985.0,
+    "website": "https://www.biontech.de",
+    "name_variants": [
+      "BioNTech SE"
+    ]
+  },
+  "pipeline": {
+    "candidates": [
+      {
+        "nct": "NCT05537038",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phase": "phase1",
+        "condition": "Tuberculosis",
+        "intervention": "BNT164a1",
+        "source_url": "https://clinicaltrials.gov/study/NCT05537038",
+        "fetched": "2025-09-24T13:40:28.857142",
+        "evidence_snippet": "Safety and Immune Responses After Vaccination With Two Investigational RNA-based Vaccines Against Tuberculosis in Healthy Volunteers | Condition: Tube",
+        "matched_variant": "BioNTech SE"
+      },
+      {
+        "nct": "NCT06057038",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phase": "phase1",
+        "condition": "Malignant Solid Tumor",
+        "intervention": "GEN1042",
+        "source_url": "https://clinicaltrials.gov/study/NCT06057038",
+        "fetched": "2025-09-24T13:40:28.857142",
+        "evidence_snippet": "A Safety Trial of GEN1042 in Japanese Subjects With Malignant Solid Tumors | Condition: Malignant Solid Tumor | Intervention: GEN1042",
+        "matched_variant": "BioNTech SE"
+      },
+      {
+        "nct": "NCT03289962",
+        "status": "COMPLETED",
+        "phase": "phase1",
+        "condition": "Melanoma",
+        "intervention": "Autogene cevumeran",
+        "source_url": "https://clinicaltrials.gov/study/NCT03289962",
+        "fetched": "2025-09-24T13:40:28.857142",
+        "evidence_snippet": "A Study of Autogene Cevumeran (RO7198457) as a Single Agent and in Combination With Atezolizumab in Participants With Locally Advanced or Metastatic T",
+        "matched_variant": "BioNTech SE"
+      },
+      {
+        "nct": "NCT06018337",
+        "status": "RECRUITING",
+        "phase": "phase3",
+        "condition": "Metastatic Breast Cancer",
+        "intervention": "DB-1303/BNT323",
+        "source_url": "https://clinicaltrials.gov/study/NCT06018337",
+        "fetched": "2025-09-24T13:40:28.857142",
+        "evidence_snippet": "A Study of DB-1303/BNT323 vs Investigator's Choice Chemotherapy in HER2-Low, Hormone Receptor Positive Metastatic Breast Cancer (DYNASTY-Breast02) | C",
+        "matched_variant": "BioNTech SE"
+      },
+      {
+        "nct": "NCT04101357",
+        "status": "TERMINATED",
+        "phase": "phase1",
+        "condition": "Solid Tumor",
+        "intervention": "BNT411",
+        "source_url": "https://clinicaltrials.gov/study/NCT04101357",
+        "fetched": "2025-09-24T13:40:28.857142",
+        "evidence_snippet": "Safety, Pharmacokinetics, Pharmacodynamics, and Preliminary Efficacy Trial of BNT411 | Condition: Solid Tumor | Intervention: BNT411",
+        "matched_variant": "BioNTech SE"
+      }
+    ],
+    "counts_by_phase": {
+      "phase1": 4,
+      "phase3": 1
+    }
+  },
+  "financial": {
+    "public": true,
+    "filings": [],
+    "provenance": []
+  },
+  "news": []
+}

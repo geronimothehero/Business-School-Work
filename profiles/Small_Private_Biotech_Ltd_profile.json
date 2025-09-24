@@ -1,0 +1,83 @@
+{
+  "input_name": "Small Private Biotech Ltd",
+  "canonical": {
+    "resolved_name": "Small Private Biotech Ltd",
+    "ticker": NaN,
+    "cik": NaN,
+    "website": NaN,
+    "name_variants": [
+      "Small Private Biotech",
+      "Small Private Biotech Ltd"
+    ]
+  },
+  "pipeline": {
+    "candidates": [
+      {
+        "nct": "NCT01103284",
+        "status": "COMPLETED",
+        "phase": "phase3",
+        "condition": "Type 1 Diabetes Mellitus",
+        "intervention": "DiaPep277",
+        "source_url": "https://clinicaltrials.gov/study/NCT01103284",
+        "fetched": "2025-09-24T13:40:29.804544",
+        "evidence_snippet": "Efficacy and Safety Study of DiaPep277 in Newly Diagnosed Type 1 Diabetes Adults | Condition: Type 1 Diabetes Mellitus | Intervention: DiaPep277",
+        "matched_variant": "Small Private Biotech Ltd"
+      },
+      {
+        "nct": "NCT03084237",
+        "status": "COMPLETED",
+        "phase": "phase3",
+        "condition": "Breast Cancer",
+        "intervention": "HLX02",
+        "source_url": "https://clinicaltrials.gov/study/NCT03084237",
+        "fetched": "2025-09-24T13:40:29.804544",
+        "evidence_snippet": "Compare Efficacy, Safety and Immunogenicity of HLX02 and Herceptin in Previously Untreated HER2 +Overexpressing Metastatic Breast Cancer | Condition: ",
+        "matched_variant": "Small Private Biotech Ltd"
+      },
+      {
+        "nct": "NCT05102214",
+        "status": "UNKNOWN",
+        "phase": "phase1",
+        "condition": "Locally Advanced or Metastatic Solid Tumors",
+        "intervention": "HLX301",
+        "source_url": "https://clinicaltrials.gov/study/NCT05102214",
+        "fetched": "2025-09-24T13:40:29.804544",
+        "evidence_snippet": "HLX301 (TIGIT\u00d7PDL1 Bispecific) in Patients With Locally Advanced or Metastatic Solid Tumors | Condition: Locally Advanced or Metastatic Solid Tumors |",
+        "matched_variant": "Small Private Biotech Ltd"
+      },
+      {
+        "nct": "NCT06054737",
+        "status": "COMPLETED",
+        "phase": "unknown",
+        "condition": "Venous Insufficiency (Chronic)(Peripheral)",
+        "intervention": "SPA THERAPY",
+        "source_url": "https://clinicaltrials.gov/study/NCT06054737",
+        "fetched": "2025-09-24T13:40:29.804544",
+        "evidence_snippet": "Chronic Venous Insufficiency and Balneotherapy | Condition: Venous Insufficiency (Chronic)(Peripheral) | Intervention: SPA THERAPY",
+        "matched_variant": "Small Private Biotech Ltd"
+      },
+      {
+        "nct": "NCT04396236",
+        "status": "RECRUITING",
+        "phase": "phase3",
+        "condition": "Migraine",
+        "intervention": "Lasmiditan",
+        "source_url": "https://clinicaltrials.gov/study/NCT04396236",
+        "fetched": "2025-09-24T13:40:29.804544",
+        "evidence_snippet": "A Study of Lasmiditan (LY573144) Treatment in Children Aged 6 to 17 With Migraine | Condition: Migraine | Intervention: Lasmiditan",
+        "matched_variant": "Small Private Biotech Ltd"
+      }
+    ],
+    "counts_by_phase": {
+      "phase3": 3,
+      "phase1": 1,
+      "unknown": 1
+    }
+  },
+  "financial": {
+    "public": false,
+    "filings": [],
+    "provenance": []
+  },
+  "news": []
+}

@@ -1,0 +1,137 @@
+{
+  "input_name": "Eli Lilly",
+  "canonical": {
+    "resolved_name": "Eli Lilly and Company",
+    "ticker": "LLY",
+    "cik": 59478.0,
+    "website": "https://www.lilly.com",
+    "name_variants": [
+      "Eli Lilly and Company"
+    ]
+  },
+  "pipeline": {
+    "candidates": [
+      {
+        "nct": "NCT01754493",
+        "status": "COMPLETED",
+        "phase": "phase4",
+        "condition": "Major Depression",
+        "intervention": "Duloxetine",
+        "source_url": "https://clinicaltrials.gov/study/NCT01754493",
+        "fetched": "2025-09-24T13:40:26.414247",
+        "evidence_snippet": "Open Trial of Duloxetine in Outpatients With Irritable Bowel Syndrome Symptoms and Co-Morbid Major Depression | Condition: Major Depression | Interven",
+        "matched_variant": "Eli Lilly and Company"
+      },
+      {
+        "nct": "NCT06111521",
+        "status": "COMPLETED",
+        "phase": "phase1",
+        "condition": "Healthy",
+        "intervention": "LY3537982",
+        "source_url": "https://clinicaltrials.gov/study/NCT06111521",
+        "fetched": "2025-09-24T13:40:26.414247",
+        "evidence_snippet": "A Drug-Drug Interaction Study of LY3537982 on Midazolam, Digoxin, and Rosuvastatin in Healthy Participants | Condition: Healthy | Intervention: LY3537",
+        "matched_variant": "Eli Lilly and Company"
+      },
+      {
+        "nct": "NCT06176768",
+        "status": "COMPLETED",
+        "phase": "phase2",
+        "condition": "Plaque Psoriasis",
+        "intervention": "LY3972406",
+        "source_url": "https://clinicaltrials.gov/study/NCT06176768",
+        "fetched": "2025-09-24T13:40:26.414247",
+        "evidence_snippet": "A Study of LY3972406 in Adult Participants With Moderate-to-Severe Plaque Psoriasis | Condition: Plaque Psoriasis | Intervention: LY3972406",
+        "matched_variant": "Eli Lilly and Company"
+      },
+      {
+        "nct": "NCT01613807",
+        "status": "COMPLETED",
+        "phase": "phase4",
+        "condition": "Gestational Diabetes Mellitus",
+        "intervention": "Insulin LISPRO",
+        "source_url": "https://clinicaltrials.gov/study/NCT01613807",
+        "fetched": "2025-09-24T13:40:26.414247",
+        "evidence_snippet": "Humalog\u00ae Mix50/50(tm) as a Treatment for Gestational Diabetes | Condition: Gestational Diabetes Mellitus | Intervention: Insulin LISPRO",
+        "matched_variant": "Eli Lilly and Company"
+      },
+      {
+        "nct": "NCT03275311",
+        "status": "RECRUITING",
+        "phase": "unknown",
+        "condition": "Metastatic Breast Cancer",
+        "intervention": null,
+        "source_url": "https://clinicaltrials.gov/study/NCT03275311",
+        "fetched": "2025-09-24T13:40:26.414247",
+        "evidence_snippet": "Evolution of the Therapeutic Care in Metastatic Breast Cancer From 2008 | Condition: Metastatic Breast Cancer",
+        "matched_variant": "Eli Lilly and Company"
+      }
+    ],
+    "counts_by_phase": {
+      "phase4": 2,
+      "phase1": 1,
+      "phase2": 1,
+      "unknown": 1
+    }
+  },
+  "financial": {
+    "public": true,
+    "filings": [
+      {
+        "form": "10-K",
+        "filing_date": "0000059478-25-000067",
+        "file_path": "C:\\Users\\Pc\\Desktop\\Business School Work\\sec-edgar-filings\\LLY\\10-K\\0000059478-25-000067\\full-submission.txt",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/59478.0/0000059478-25-000067/index.html",
+        "fetched": "2025-09-24T13:40:26.832047"
+      },
+      {
+        "form": "10-K",
+        "filing_date": "0000059478-24-000065",
+        "file_path": "C:\\Users\\Pc\\Desktop\\Business School Work\\sec-edgar-filings\\LLY\\10-K\\0000059478-24-000065\\full-submission.txt",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/59478.0/0000059478-24-000065/index.html",
+        "fetched": "2025-09-24T13:40:26.832047"
+      },
+      {
+        "form": "10-Q",
+        "filing_date": "0000059478-25-000204",
+        "file_path": "C:\\Users\\Pc\\Desktop\\Business School Work\\sec-edgar-filings\\LLY\\10-Q\\0000059478-25-000204\\full-submission.txt",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/59478.0/0000059478-25-000204/index.html",
+        "fetched": "2025-09-24T13:40:27.051536"
+      },
+      {
+        "form": "10-Q",
+        "filing_date": "0000059478-25-000132",
+        "file_path": "C:\\Users\\Pc\\Desktop\\Business School Work\\sec-edgar-filings\\LLY\\10-Q\\0000059478-25-000132\\full-submission.txt",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/59478.0/0000059478-25-000132/index.html",
+        "fetched": "2025-09-24T13:40:27.051536"
+      }
+    ],
+    "provenance": [
+      {
+        "source_url": "https://www.sec.gov/Archives/edgar/data/59478.0/0000059478-25-000067/index.html",
+        "source_type": "edgar",
+        "fetched": "2025-09-24T13:40:26.832047",
+        "evidence_snippet": "10-K filing on 0000059478-25-000067"
+      },
+      {
+        "source_url": "https://www.sec.gov/Archives/edgar/data/59478.0/0000059478-24-000065/index.html",
+        "source_type": "edgar",
+        "fetched": "2025-09-24T13:40:26.832047",
+        "evidence_snippet": "10-K filing on 0000059478-24-000065"
+      },
+      {
+        "source_url": "https://www.sec.gov/Archives/edgar/data/59478.0/0000059478-25-000204/index.html",
+        "source_type": "edgar",
+        "fetched": "2025-09-24T13:40:27.051536",
+        "evidence_snippet": "10-Q filing on 0000059478-25-000204"
+      },
+      {
+        "source_url": "https://www.sec.gov/Archives/edgar/data/59478.0/0000059478-25-000132/index.html",
+        "source_type": "edgar",
+        "fetched": "2025-09-24T13:40:27.051536",
+        "evidence_snippet": "10-Q filing on 0000059478-25-000132"
+      }
+    ]
+  },
+  "news": []
+}

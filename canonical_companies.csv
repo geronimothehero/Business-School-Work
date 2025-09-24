@@ -1,0 +1,3 @@
+input_name,resolved_name,ticker,cik,website,name_variants,provenance,status
+Pfizer,Pfizer Inc.,PFE,0000078003,https://www.pfizer.com,"['Pfizer Inc.', 'Pfizer']",yfinance,resolved
+Genentech,Genentech,,,,['Genentech'],search_fail,private
